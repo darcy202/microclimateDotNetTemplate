@@ -1,0 +1,14 @@
+extensionId: templateDotNetExample
+buildType: docker
+language: dotnet
+creationType: template
+info:
+  provider: Marc
+  version: 0.0.1
+userInterface:
+    label: .NET sample template
+    description: Sample template for .NET app
+template:
+  giturl: https://github.com/darcy202/microclimateDotNetTemplate
+  gitbranch: master
+  localpath: 
